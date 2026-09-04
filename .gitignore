@@ -1,0 +1,5 @@
+# Ignore MNIST dataset
+data/
+
+# Ignore generated .png
+/**/*.png
